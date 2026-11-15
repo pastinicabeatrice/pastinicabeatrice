@@ -12,10 +12,36 @@
 
 I work where **AI, software engineering and cybersecurity** meet. I like taking a real problem, checking that it really exists, then building something that solves it and proving that it works.
 
-- 🎓 B.Sc. in Economic Informatics (2025) · M.Sc. student at POLITEHNICA Bucharest
-- 🤖 Currently building **AI agents that respect private data**
-- 🧠 I implement ML algorithms **from scratch** to understand what happens underneath
-- 🐝 Also building **BeeDetection**, a deepfake detector for images and video
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Right now**
+- 🎓 M.Sc. in **IT Management** at POLITEHNICA Bucharest (2026 – 2028)
+- 🤖 Building **AI agents that respect private data**
+- 🧠 Implementing ML algorithms **from scratch**
+- 🐝 Growing **BeeDetection**, my deepfake detector
+
+</td>
+<td width="50%" valign="top">
+
+**🏆 Highlights**
+- 📘 **2 research papers** on AI, published in 2025 (Springer, Informatica Economică)
+- 🏅 **Honorable mention**, ASE Student Scientific Session 2025
+- 💼 **Database intern**, SQL Server & ERP (2024)
+- ⚡ Built **AIrlock** in 28 hours and demoed it live
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 Research
+
+- **Automating Student Attendance Using Facial Recognition Through Artificial Intelligence** · 24th International Conference on Informatics in Economy (IE 2025) · [Springer](https://link.springer.com/chapter/10.1007/978-981-95-6136-0_38)
+- **Exploring Conversational Programming through the CHOP Paradigm and Artificial Intelligence** · Informatica Economică, Vol. 29, No. 2/2025 · [DOI](https://doi.org/10.24818/issn14531305/29.2.2025.01)
+- **Deepfake and the cybersecurity paradigm: fighting digital disinformation with AI** · ASE Student Scientific Session 2025 · 🏅 honorable mention
 
 ---
 
@@ -49,6 +75,9 @@ A local agent that sits between employees and ChatGPT or Claude. When you hit **
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
   <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API">
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
@@ -86,6 +115,14 @@ A local agent that sits between employees and ChatGPT or Claude. When you hit **
   <img src="https://img.shields.io/badge/GDPR-22324a?style=flat-square" alt="GDPR">
   <img src="https://img.shields.io/badge/Deepfake%20detection-22324a?style=flat-square" alt="Deepfake detection">
 </p>
+
+---
+
+### 🐝 BeeDetection · deepfake detection
+
+My bachelor's thesis, grown into a full platform: it analyzes images and video (including the audio track) with pretrained deep networks (XceptionNet, VGG-Face, EfficientNetV2), explains every verdict with **Grad-CAM heatmaps** and exports a PDF report. Runs on the web and as a **Chrome extension** that checks content in real time.
+
+`TensorFlow` · `Keras` · `OpenCV` · `Librosa` · `React` · `Node.js` · `Express` · `MySQL` · `JWT` · `Chrome MV3` · *(private repo)*
 
 ---
 
