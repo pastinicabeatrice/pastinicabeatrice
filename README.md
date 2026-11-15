@@ -45,7 +45,7 @@ I work where **AI, software engineering and cybersecurity** meet. I like taking 
 
 ---
 
-### 🔐 Featured: [AIrlock](https://github.com/pastinicabeatrice/agent-ai-sigur), nothing leaves unfiltered
+### 🔐 Featured: AIrlock, nothing leaves unfiltered
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ A local agent that sits between employees and ChatGPT or Claude. When you hit **
 
 > **0** real records reached the AI, across 9 messages full of personal data and 5 attempts to upload a financial report.
 
-`mitmproxy` · `Protobuf` · `Ollama` · `EasyOCR` · `spaCy` · `MCP` · `346 tests`
+`mitmproxy` · `Protobuf` · `Ollama` · `EasyOCR` · `spaCy` · `MCP` · `346 tests` · *(private repo)*
 
 </td>
 <td width="45%" valign="top">
